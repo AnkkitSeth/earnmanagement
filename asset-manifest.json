@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/earnmanagement/static/css/main.8c9cfa18.css",
+    "main.js": "/earnmanagement/static/js/main.71e7ea2c.js",
+    "static/js/453.2ea49d01.chunk.js": "/earnmanagement/static/js/453.2ea49d01.chunk.js",
+    "static/media/gradient.png": "/earnmanagement/static/media/gradient.b7989d8439f9234674f0.png",
+    "static/media/gorillaGradient.png": "/earnmanagement/static/media/gorillaGradient.c87d13084aa3608cf6fa.png",
+    "static/media/gorilla.png": "/earnmanagement/static/media/gorilla.7995163c902bba26f906.png",
+    "static/media/bootstrap-icons.woff?": "/earnmanagement/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/earnmanagement/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/coin.png": "/earnmanagement/static/media/coin.acaec593a8328afc52d0.png",
+    "static/media/glowingCircle.png": "/earnmanagement/static/media/glowingCircle.24088bc02a9b2ffd8f2f.png",
+    "static/media/whitebg.png": "/earnmanagement/static/media/whitebg.7b79bde89dee2b6528bc.png",
+    "static/media/graybg.png": "/earnmanagement/static/media/graybg.726a03abc202779175c7.png",
+    "static/media/blueCircle.png": "/earnmanagement/static/media/blueCircle.dd96cecd0d77b8fb482e.png",
+    "static/media/grayCircle.png": "/earnmanagement/static/media/grayCircle.94d027a7d4bd1f5f8854.png",
+    "index.html": "/earnmanagement/index.html",
+    "main.8c9cfa18.css.map": "/earnmanagement/static/css/main.8c9cfa18.css.map",
+    "main.71e7ea2c.js.map": "/earnmanagement/static/js/main.71e7ea2c.js.map",
+    "453.2ea49d01.chunk.js.map": "/earnmanagement/static/js/453.2ea49d01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9cfa18.css",
+    "static/js/main.71e7ea2c.js"
+  ]
+}
